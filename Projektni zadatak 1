@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html lang="hr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="description" content="Projektni zadatak 1">
+    <meta name="keywords" content="HTML5, CSS">
+    <meta name="author" content="Ivo Vinojčić">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web aplikacije</title>
+</head>
+<body>
+    <p>Prvi projektni zadatak</p>
+</body>
+</html>
