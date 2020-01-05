@@ -1,2 +1,3 @@
-# WebAplikacije
-Projektni zadaci i zadaci za vjezbu
+# Web Aplikacije
+
+Projektni zadatak iz predmeta "Web Aplikacije"
