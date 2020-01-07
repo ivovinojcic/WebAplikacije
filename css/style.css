@@ -20,10 +20,37 @@
 }
 
 footer {
-	background-color: #828282;
+	background-color: #343a40;
 	padding: 25px;
+	margin-top: 100px;
 }
 
 footer a {
-	 color : white;
+	 color : #687581;
+ }
+ footer a:hover {
+	 text-decoration: none;
+	color : #a0b2c4;
+}
+
+ .contact-aside ul{
+	 border-left: 1px solid rgb(197, 197, 197)
+ }
+ .contact-aside ul li{
+	 padding: 10px;
+	 margin-bottom: 15px;
+	 text-align: left
+ }
+ .contact-aside ul li span{
+	 display: block;
+	 opacity: .6;
+ }
+ .map-container{
+	 margin-top: 56px;
+ }
+ .carousel-item{
+	 max-height: 100vh;
+ }
+ .mobile-banner{
+	 margin-top: 56px;
  }
